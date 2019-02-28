@@ -18,7 +18,7 @@ abstract: |
   - Understand what validations and quality checks are available
   - Learn how to sign off to have your change published
 prerequisites: |
-  None
+  A working knowledge of Git and GitHub (see [GitHub Labs](https://lab.github.com/githubtraining/introduction-to-github) for an introduction)
 iconUrl: ../../achievements/contributor-training-achievement.png
 levels:
 - beginner
