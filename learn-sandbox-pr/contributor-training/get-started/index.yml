@@ -19,7 +19,7 @@ abstract: |
   - Learn how to sign off to have your change published
 prerequisites: |
   A working knowledge of Git and GitHub (see [GitHub Labs](https://lab.github.com/githubtraining/introduction-to-github) for an introduction)
-iconUrl: ../../achievements/contributor-training-achievement.png
+iconUrl: https://image.flaticon.com/icons/svg/201/201608.svg
 levels:
 - beginner
 roles:
