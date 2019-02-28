@@ -1,9 +1,9 @@
 ### YamlMime:ModuleUnit
 uid: learn.contributor-training-get-started.5-build-and-validate
-title: Debug the bot locally
+title: Build and validate the pull request
 metadata:
-  title: Debug the bot locally
-  description: Debug the bot locally
+  title: Build and validate the pull request
+  description: Build and validate the pull request
   ms.date: 09/24/2018
   #TODO: Update with real author name.
   author: jasongroce

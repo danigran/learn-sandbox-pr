@@ -1,9 +1,9 @@
 ### YamlMime:ModuleUnit
 uid: learn.contributor-training-get-started.2-verify-your-repo-setup
-title: Create an Azure web app bot
+title: Verify your repo setup
 metadata:
-  title: Create an Azure web app bot
-  description: Create an Azure web app bot
+  title: Verify your repo setup
+  description: Verify your repo setup
   ms.date: 09/24/2018
   #TODO: Update with real author name.
   author: jasongroce
