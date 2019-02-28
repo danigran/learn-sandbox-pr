@@ -7,6 +7,6 @@ achievements:
 #  iconUrl: http://via.placeholder.com/120x120
 - uid: learn.build-azure-bot-services-bot.badge
   type: badge
-  title: Learn how to contribute to Microsoft Docs
+  title: Learn to contribute to Microsoft Docs
   summary: Learn how to contribute to articles on Microsoft Docs
   iconUrl: /achievements/contributor-training-achievement.png

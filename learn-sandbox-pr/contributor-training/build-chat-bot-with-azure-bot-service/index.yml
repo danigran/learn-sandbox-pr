@@ -1,7 +1,7 @@
 ### YamlMime:Module
 uid: learn.contributor-training-get-started
 metadata:
-  title: Getting started contributing to docs.microsoft.com - Learn
+  title: Learn to contribute to docs.microsoft.com - Learn
   description: FIXME
   ms.date: 09/26/2018
   author: jasongroce
@@ -13,7 +13,10 @@ title: Get started contributing to docs.microsoft.com
 summary: FIXME
 abstract: |
   In this module, you will:
-  - FIXME
+  - Learn how to create a pull request
+  - Learn how to submit your pull request for review
+  - Understand what validations and quality checks are available
+  - Learn how to sign off to have your change published
 prerequisites: |
   None
 iconUrl: achievements/contributor-training-achievement.png
@@ -27,13 +30,13 @@ products:
 - vs-code
 - azure-bot-service
 units:
-- learn.build-azure-bot-services-bot.1-introduction
-- learn.build-azure-bot-services-bot.2-create-web-app-bot
-- learn.build-azure-bot-services-bot.3-create-qna-maker
-- learn.build-azure-bot-services-bot.4-deploy-bot
-- learn.build-azure-bot-services-bot.5-debug-bot-locally
-- learn.build-azure-bot-services-bot.6-connect-to-knowledge-base
-- learn.build-azure-bot-services-bot.7-summary
-- learn.build-azure-bot-services-bot.8-knowledge-check
+- learn.contributor-training-get-started.1-introduction
+- learn.contributor-training-get-started.2-create-web-app-bot
+- learn.contributor-training-get-started.3-create-qna-maker
+- learn.contributor-training-get-started.4-deploy-bot
+- learn.contributor-training-get-started.5-debug-bot-locally
+- learn.contributor-training-get-started.6-connect-to-knowledge-base
+- learn.contributor-training-get-started.7-summary
+- learn.contributor-training-get-started.8-knowledge-check
 badge:
-  uid: learn.build-azure-bot-services-bot.badge
+  uid: learn.contributor-training-get-started.badge
