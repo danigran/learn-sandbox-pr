@@ -19,7 +19,7 @@ abstract: |
   - Learn how to sign off to have your change published
 prerequisites: |
   None
-iconUrl: achievements/contributor-training-achievement.png
+iconUrl: ../../achievements/contributor-training-achievement.png
 levels:
 - beginner
 roles:
