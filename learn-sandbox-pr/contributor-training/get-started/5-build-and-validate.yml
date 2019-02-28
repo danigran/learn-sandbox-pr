@@ -14,4 +14,4 @@ metadata:
 labId:  46466
 durationInMinutes: 20
 content: |
-  [!include[](includes/5-debug-bot-locally.md)]
+  [!include[](includes/5-build-and-validate.md)]
