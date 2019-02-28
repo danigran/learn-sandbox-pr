@@ -1,13 +1,13 @@
 ### YamlMime:ModuleUnit
 uid: learn.contributor-training-get-started.7-summary
-title: Delete the resource group
+title: Summary
 metadata:
-  title: Delete the resource group
-  description: Delete the resource group
-  ms.date: 09/24/2018
+  title: Summary
+  description: Summary of the contribution workflow
+  ms.date: 02/28/2019
   #TODO: Update with real author name.
-  author: markjulmar
-  ms.author: smmark
+  author: jasongroce
+  ms.author: jasgro
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
   ROBOTS: NOINDEX

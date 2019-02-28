@@ -1,17 +1,16 @@
 ### YamlMime:ModuleUnit
 uid: learn.contributor-training-get-started.6-sign-off-and-publish
-title: Connect the bot to the knowledge base
+title: Sign off and publish your change
 metadata:
-  title: Connect the bot to the knowledge base
-  description: Connect the bot to the knowledge base
-  ms.date: 09/24/2018
+  title: Sign off and publish your change
+  description: Sign off and publish your change
+  ms.date: 02/28/2019
   #TODO: Update with real author name.
-  author: markjulmar
-  ms.author: smmark
+  author: jasongroce
+  ms.author: jasgro
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
   ROBOTS: NOINDEX
-labId:  46466
 durationInMinutes: 20
 content: |
   [!include[](includes/6-sign-off-and-publish.md)]
