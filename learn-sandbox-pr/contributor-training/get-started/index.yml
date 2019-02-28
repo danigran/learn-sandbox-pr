@@ -31,11 +31,11 @@ products:
 - azure-bot-service
 units:
 - learn.contributor-training-get-started.1-introduction
-- learn.contributor-training-get-started.2-create-web-app-bot
-- learn.contributor-training-get-started.3-create-qna-maker
-- learn.contributor-training-get-started.4-deploy-bot
-- learn.contributor-training-get-started.5-debug-bot-locally
-- learn.contributor-training-get-started.6-connect-to-knowledge-base
+- learn.contributor-training-get-started.2-verify-your-repo-setup
+- learn.contributor-training-get-started.3-make-change
+- learn.contributor-training-get-started.4-create-pull-request
+- learn.contributor-training-get-started.5-build-and-validate
+- learn.contributor-training-get-started.6-sign-off-and-publish
 - learn.contributor-training-get-started.7-summary
 - learn.contributor-training-get-started.8-knowledge-check
 badge:
