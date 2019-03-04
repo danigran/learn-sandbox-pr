@@ -2,8 +2,8 @@
 uid: learn.contributor-training-get-started
 metadata:
   title: Learn to contribute to docs.microsoft.com - Learn
-  description: FIXME
-  ms.date: 09/26/2018
+  description: Learn to contribute to docs.microsoft.com
+  ms.date: 03/04/2019
   author: jasongroce
   ms.author: jasgro
   ms.topic: interactive-tutorial
@@ -23,12 +23,12 @@ iconUrl: https://image.flaticon.com/icons/svg/201/201608.svg
 levels:
 - beginner
 roles:
+- administrator
 - developer
+- solution-architect
 products:
 - azure
 - vs
-- vs-code
-- azure-bot-service
 units:
 - learn.contributor-training-get-started.1-introduction
 - learn.contributor-training-get-started.2-verify-your-repo-setup
