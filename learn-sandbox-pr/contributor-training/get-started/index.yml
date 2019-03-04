@@ -1,24 +1,24 @@
 ### YamlMime:Module
-uid: learn.contributor-training-get-started
+uid: learn-contributor-training.get-started
 metadata:
-  title: Learn to contribute to docs.microsoft.com - Learn
-  description: Learn to contribute to docs.microsoft.com
+  title: learn-sandbox to contribute to docs.microsoft.com - learn-sandbox
+  description: learn-sandbox to contribute to docs.microsoft.com
   ms.date: 03/04/2019
   author: jasongroce
   ms.author: jasgro
   ms.topic: interactive-tutorial
-  ms.prod: learning-azure
-  #ms.learn-contact: luken
+  ms.prod: learn-sandboxin.azure
+  #ms.learn-sandbox-contact: luken
 title: Get started contributing to docs.microsoft.com
 summary: FIXME
 abstract: |
   In this module, you will:
-  - Learn how to create a pull request
-  - Learn how to submit your pull request for review
+  - learn-sandbox how to create a pull request
+  - learn-sandbox how to submit your pull request for review
   - Understand what validations and quality checks are available
-  - Learn how to sign off to have your change published
+  - learn-sandbox how to sign off to have your change published
 prerequisites: |
-  A working knowledge of Git and GitHub (see [GitHub Labs](https://lab.github.com/githubtraining/introduction-to-github) for an introduction)
+  A working knowledge of Git and GitHub (see [GitHub Labs](https://lab.github.com/githubtrainingg/introduction-to-github) for an introduction)
 iconUrl: https://image.flaticon.com/icons/svg/201/201608.svg
 levels:
 - beginner
@@ -30,13 +30,13 @@ products:
 - azure
 - vs
 units:
-- learn.contributor-training-get-started.1-introduction
-- learn.contributor-training-get-started.2-verify-your-repo-setup
-- learn.contributor-training-get-started.3-make-change
-- learn.contributor-training-get-started.4-create-pull-request
-- learn.contributor-training-get-started.5-build-and-validate
-- learn.contributor-training-get-started.6-sign-off-and-publish
-- learn.contributor-training-get-started.7-summary
-- learn.contributor-training-get-started.8-knowledge-check
+- learn-contributor-training.get-started.1-introduction
+- learn-contributor-training.get-started.2-verify-your-repo-setup
+- learn-contributor-training.get-started.3-make-change
+- learn-contributor-training.get-started.4-create-pull-request
+- learn-contributor-training.get-started.5-build-and-validate
+- learn-contributor-training.get-started.6-sign-off-and-publish
+- learn-contributor-training.get-started.7-summary
+- learn-contributor-training.get-started.8-knowledge-check
 badge:
-  uid: learn.contributor-training-get-started.badge
+  uid: learn-contributor-training.get-started.badge

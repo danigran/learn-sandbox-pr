@@ -10,10 +10,7 @@
 		{
 			"src": "contributor-training",
 			"files": [
-				"**/*.yml"
-			],
-			"exclude": [
-				"**/includes/**"
+				"**.yml"
 			],
 			"dest": "modules"
 		},
@@ -30,7 +27,8 @@
           "README.md",
           "LICENSE",
           "LICENSE-CODE",
-          "ThirdPartyNotices"
+          "ThirdPartyNotices",
+          "learn-sandbox-pr"
         ]
       }
     ],
@@ -56,13 +54,17 @@
     "globalMetadata": {
       "breadcrumb_path": "/learn/breadcrumb/toc.json",
       "feedback_system": "GitHub",
-      "feedback_github_repo": "MicrosoftDocs/learn",
+      "feedback_github_repo": "MicrosoftDocs/learn-sandbox-pr",
       "clicktale": true,
       "uhfHeaderId":"MSDocsHeader-Learn"
     },
-    "fileMetadata": {},
+    "fileMetadata": {
+      "brand": {
+        "contributor-training/**/*.yml": "contributor-training"
+      },
     "template": [],
-    "dest": "learn-template",
+    "dest": "learn-sandbox-pr",
     "markdownEngineName": "markdig"
   }
+}
 }
