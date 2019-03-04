@@ -5,8 +5,18 @@
         "files": [
           "achievements.yml"
         ],
-        "dest": "achievements/REPO_NAME/"
+        "dest": "achievements/main/"
       },
+		{
+			"src": "contributor-training",
+			"files": [
+				"**/*.yml"
+			],
+			"exclude": [
+				"**/includes/**"
+			],
+			"dest": "modules"
+		},
       {
         "files": [
           "**/*.md",
