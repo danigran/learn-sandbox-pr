@@ -1,5 +1,5 @@
 > [!NOTE]
-> After launching the VM, the username and password you need to sign in with is located on the **Resources** tab next to the instructions.
+> This tutorial assumes basic working knowledge of Git and GitHub. The class does not cover Git or GitHub fundamentals, but having a working understanding of both is critical to being able to publish content. If you’re not familiar with Git/GitHub, I highly suggest taking GitHub’s [Introduction to Git and GitHub Lab](https://lab.github.com/githubtraining/introduction-to-github).
 
 The first step in creating a bot is to provide a location for the bot to be hosted in Azure. The Web Apps feature of Azure App Service is perfect for hosting bot applications, and the Azure Bot Service is designed to provision them for you. In this unit, you will use the Azure portal to provision an Azure web app bot.
 
