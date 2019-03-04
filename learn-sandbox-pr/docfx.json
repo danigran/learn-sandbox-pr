@@ -59,7 +59,7 @@
       "clicktale": true,
       "uhfHeaderId":"MSDocsHeader-Learn"
     },
-    "fileMetadata": [],
+    "fileMetadata": {},
     "template": [],
     "dest": "learn-sandbox-pr",
     "markdownEngineName": "markdig"
