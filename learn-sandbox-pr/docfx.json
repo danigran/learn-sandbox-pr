@@ -58,13 +58,9 @@
       "clicktale": true,
       "uhfHeaderId":"MSDocsHeader-Learn"
     },
-    "fileMetadata": {
-      "brand": {
-        "contributor-training/**/*.yml": "contributor-training"
-      },
+    "fileMetadata": [],
     "template": [],
     "dest": "learn-sandbox-pr",
     "markdownEngineName": "markdig"
   }
-}
 }
