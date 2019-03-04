@@ -10,7 +10,8 @@
 		{
 			"src": "contributor-training",
 			"files": [
-				"**.yml"
+        "**/*.md",
+        "**/*.yml"
 			],
 			"dest": "modules"
 		},
