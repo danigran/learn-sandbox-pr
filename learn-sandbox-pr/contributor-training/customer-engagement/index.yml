@@ -1,5 +1,5 @@
 ### YamlMime:Module
-uid: learn.contributor-training-customer-engagement
+uid: learn-sandbox.contributor-training-customer-engagement
 metadata:
   title: Learn to contribute to docs.microsoft.com - Learn
   description: Learn to contribute to docs.microsoft.com
@@ -30,6 +30,6 @@ products:
 - azure
 - vs
 units:
-- learn.contributor-training-customer-engagement.1-introduction
+- learn-sandbox.contributor-training-customer-engagement.1-introduction
 badge:
-  uid: learn.contributor-training-customer-engagement.badge
+  uid: learn-sandbox.contributor-training-customer-engagement.badge

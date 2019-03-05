@@ -1,5 +1,5 @@
 ### YamlMime:Module
-uid: learn-contributor-training.get-started
+uid: learn-sandbox.contributor-training-get-started
 metadata:
   title: learn-sandbox to contribute to docs.microsoft.com - learn-sandbox
   description: learn-sandbox to contribute to docs.microsoft.com
@@ -30,13 +30,13 @@ products:
 - azure
 - vs
 units:
-- learn-contributor-training.get-started.1-introduction
-- learn-contributor-training.get-started.2-verify-your-repo-setup
-- learn-contributor-training.get-started.3-make-change
-- learn-contributor-training.get-started.4-create-pull-request
-- learn-contributor-training.get-started.5-build-and-validate
-- learn-contributor-training.get-started.6-sign-off-and-publish
-- learn-contributor-training.get-started.7-summary
-- learn-contributor-training.get-started.8-knowledge-check
+- learn-sandbox.contributor-training-get-started.1-introduction
+- learn-sandbox.contributor-training-get-started.2-verify-your-repo-setup
+- learn-sandbox.contributor-training-get-started.3-make-change
+- learn-sandbox.contributor-training-get-started.4-create-pull-request
+- learn-sandbox.contributor-training-get-started.5-build-and-validate
+- learn-sandbox.contributor-training-get-started.6-sign-off-and-publish
+- learn-sandbox.contributor-training-get-started.7-summary
+- learn-sandbox.contributor-training-get-started.8-knowledge-check
 badge:
-  uid: learn-contributor-training.get-started.badge
+  uid: learn-sandbox.contributor-training-get-started.badge
